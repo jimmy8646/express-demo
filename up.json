@@ -1,0 +1,12 @@
+{
+  "name": "express-demo",
+  "profile": "lambda",
+  "regions": [
+    "ap-southeast-1"
+  ],
+  "hooks": {
+    "build": [
+      ""
+    ]
+  }
+}
